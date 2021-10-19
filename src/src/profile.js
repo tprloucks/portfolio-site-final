@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "Former Human Intelligence Collector and U.S. Army Veteran. Hands on experience in the MERN and Python/Django development stacks. Experienced with MySql and MongoDB. A proven leader. ",
+    "Former Human Intelligence Collector and current Full Stack Developer. Over two years of immersed FullStack Development training in JavaScript and Python. Willingness to take on added responsibilities to meet team goals."
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
