@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "A former Human Intelligence Collector and U.S. Army Veteran. Two years of experience with hands on development training in the MERN and Python/Django development stacks. Experienced with MySql and MongoDB. A proven leader. ",
+    "Former Human Intelligence Collector and current Full Stack Developer. Over two years of immersed FullStack Development training in JavaScript and Python. Willingness to take on added responsibilities to meet team goals. ",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -134,19 +134,19 @@ const miscellaneous = [
     // Add image in './styles/images.css' in #misc1
     id: "misc1",
     name: "Hard Drive/ Cell Phone Exploitation",
-    url: "https://github.com/kaustubhai",
+    url: "https://www.linkedin.com/in/michael-loucks/",
   },
   {
     // Add image in './styles/images.css' in #misc2
     id: "misc2",
     name: "Recruiting and Source Operations",
-    url: "https://github.com/kaustubhai",
+    url: "https://www.linkedin.com/in/michael-loucks/",
   },
   {
     // Add image in './styles/images.css' in #misc3
     id: "misc3",
     name: "Army Veteran",
-    url: "https://github.com/kaustubhai",
+    url: "https://www.linkedin.com/in/michael-loucks/",
   },
 ];
 
