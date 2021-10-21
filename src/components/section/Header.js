@@ -33,8 +33,14 @@ const Header = () => {
                 <h1>{ `I'm ${header.name}` }</h1>
                 <br />
                 <br />
+                <br />
+                <br />
+                <br />
             <p className="line-1 anim-typewriter">and this is my portfolio...
-            <br />Full Stack Developer/Technical Recruiter</p>
+            <br />Full Stack Developer 
+            <br /> 
+            <br />
+            Technical Recruiter</p>
             <label className="switch">
                 <input id="mode-switch" onClick={e => toggleDarkMode(e)} type="checkbox"/>
                 <span className="slider round"></span>
