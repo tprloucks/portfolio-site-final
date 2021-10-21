@@ -156,7 +156,7 @@ const miscellaneous = [
 const section5Title = "Get in Touch";
 const contact = {
   pitch:
-    "Lets get in touch so I can show your company how much of a resource i can be. I look fo",
+    "Lets get in touch so I can show your company how much of a resource I can be. I look forward to speaking with you!",
   copyright: "Michael Loucks",
   contactUrl: "https://formspree.io/f/xnqlyqkz",
 };
