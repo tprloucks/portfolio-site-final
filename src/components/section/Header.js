@@ -36,10 +36,11 @@ const Header = () => {
                 <br />
                 <br />
                 <br />
+                <br />
+                <br />
             <p className="line-1 anim-typewriter">and this is my portfolio...
             <br />Full Stack Developer 
             <br /> 
-            <br />
             Technical Recruiter</p>
             <label className="switch">
                 <input id="mode-switch" onClick={e => toggleDarkMode(e)} type="checkbox"/>
