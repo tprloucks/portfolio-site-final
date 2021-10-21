@@ -11,7 +11,7 @@ const ParticlesBackground = () => {
                 params={{
                 "particles": {
                     "number": {
-                        "value": 100,
+                        "value": 300,
                         "density": {
                             "enable": false
                         }
